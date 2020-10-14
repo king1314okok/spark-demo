@@ -3,5 +3,5 @@
 --master local[2] \  
 --class com.oudake.spark.Main \  
 ~/spark/spark-java.jar \  
-~/spark/a.txt
+~/spark/text.txt
 
